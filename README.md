@@ -1,2 +1,3 @@
-# vesseliq
-VesseliQ main public repository
+# VesseliQ
+
+VesseliQ helps vessel charterers save money and the environment.
