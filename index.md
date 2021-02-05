@@ -1,4 +1,0 @@
-VesseliQ
-========
-
-VesseliQ landing page.
